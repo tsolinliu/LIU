@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{916DA168-BF1F-4A52-A4F3-4B769293EB46}|Default">
+  <MonoDevelop.Ide.ItemProperties.LIU.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="iOS/ViewController.cs" Line="11" Column="60" />
+      <File FileName="iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="iOS/MasterViewController.cs" Line="27" Column="1" />
+      <File FileName="iOS/ViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LIU.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DC9CAACE-9349-4B24-9FEA-B69D741D9704" />
+  <MultiItemStartupConfigurations />
+</Properties>

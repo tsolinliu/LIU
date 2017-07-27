@@ -1,0 +1,12 @@
+/Users/classa/Desktop/LIU/iOS/bin/iPhoneSimulator/Debug/LIU.iOS.exe
+/Users/classa/Desktop/LIU/iOS/bin/iPhoneSimulator/Debug/LIU.iOS.pdb
+/Users/classa/Desktop/LIU/iOS/bin/iPhoneSimulator/Debug/LIU.dll
+/Users/classa/Desktop/LIU/iOS/bin/iPhoneSimulator/Debug/LIU.pdb
+/Users/classa/Desktop/LIU/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/classa/Desktop/LIU/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/classa/Desktop/LIU/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/classa/Desktop/LIU/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/classa/Desktop/LIU/iOS/obj/iPhoneSimulator/Debug/LIU.iOS.csprojResolveAssemblyReference.cache
+/Users/classa/Desktop/LIU/iOS/obj/iPhoneSimulator/Debug/LIU.iOS.csproj.CoreCompileInputs.cache
+/Users/classa/Desktop/LIU/iOS/obj/iPhoneSimulator/Debug/LIU.iOS.exe
+/Users/classa/Desktop/LIU/iOS/obj/iPhoneSimulator/Debug/LIU.iOS.pdb
